@@ -1,0 +1,24 @@
+F:/arxitektoniki/lab04/top.v {1 {vlog -work work F:/arxitektoniki/lab04/top.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} F:/arxitektoniki/lab04/incrementer.v {2 {vlog -work work F:/arxitektoniki/lab04/incrementer.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module incrementer
+** Warning: F:/arxitektoniki/lab04/incrementer.v(6): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	incrementer
+
+} {} {}} F:/arxitektoniki/lab04/tutorial.v {1 {vlog -work work F:/arxitektoniki/lab04/tutorial.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tutorial
+
+Top level modules:
+	tutorial
+
+} {} {}}
